@@ -53,6 +53,14 @@ html {
   color: #522806;
 }
 
+.nav a:focus {
+  outline: .3rem solid #fff;
+}
+
+.banner-content a:focus {
+  outline: .3rem solid #fff;
+}
+
 .btn-light:hover,
 .btn-light:focus {
   background-color: #522806;
